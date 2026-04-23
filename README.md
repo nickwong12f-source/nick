@@ -6,7 +6,7 @@ Here is the **Description** 1
 hi ~The world without Latex~
 
 This is monokuma
-![Monokuma](main/monokuma.png)
+![monokuma](monokuma.png)
 
 ## Testing for Section Title
 Description
