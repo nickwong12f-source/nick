@@ -1,12 +1,13 @@
 # Testing for Title
 Description:
 
-Here is the **Description** 1
+*Here* is the **Description** 1
 
 hi ~The world without Latex~
 
-This is monokuma
-![monokuma](monokuma.png)
+This is monokuma and he wanna invite you to play a game:
+
+<img src="monokuma.png" width="250" alt="monokuma">
 
 ## Testing for Section Title
 Description
